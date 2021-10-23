@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L+UdrRt5HJhMUJeW9MVmR+GIh277naxlTvK1yQkKj12sprPGWA6PenollqZjTBVx2OCj2Zs+pYctMmX7P0mLkA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Andressa Silva\\Documents\\Modelando_Dominios_Ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andressa Silva\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

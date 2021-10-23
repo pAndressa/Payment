@@ -1,0 +1,14 @@
+c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Domain.deps.json
+c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Domain.dll
+c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\ref\PaymentContext.Domain.dll
+c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Domain.pdb
+c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.dll
+c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\bin\Debug\net5.0\PaymentContext.Shared.pdb
+c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.AssemblyReference.cache
+c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.AssemblyInfo.cs
+c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.dll
+c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\ref\PaymentContext.Domain.dll
+c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.pdb
