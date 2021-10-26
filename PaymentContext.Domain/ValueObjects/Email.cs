@@ -9,7 +9,9 @@ namespace PaymentContext.Domain.ValueObjects
         {
             Address = address;
 
-            AddNotification("Email.Address", "E-mail inválido");
+            AddNotifications(new Contract()
+                            .Requires()
+                            .IsEmail(Address, "Email.Address", "E-mail inválido"));
         }
 
         public string Address { get; private set; }

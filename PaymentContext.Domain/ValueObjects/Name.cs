@@ -10,7 +10,11 @@ namespace PaymentContext.Domain.ValueObjects
             FirstName = firstName;
             LastName = lastName;
 
-            AddNotification("Name.LastName","O nome deve conter pelo menos 3 caracteres");
+            AddNotifications(new Contract()
+                            .Requires()
+                            .HasMinLen(FirstName, 3,"Name.FirstName","O nome deve conter pelo menos 3 caracteres")
+                            .HasMinLen(LastName, 3, "Name.LastName","O nome deve conter pelo menos 3 caracteres")
+                            .HasMaxLen(FirstName, 40, "Name.FirstName","O nome deve conter no máximo 40 caracteres"));
         }
 
         public string FirstName { get; private set; }
