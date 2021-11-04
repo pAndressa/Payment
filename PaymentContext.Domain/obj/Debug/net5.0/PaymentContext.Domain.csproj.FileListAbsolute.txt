@@ -12,3 +12,4 @@ c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\Paymen
 c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.dll
 c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\ref\PaymentContext.Domain.dll
 c:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.pdb
+C:\Users\Andressa Silva\Documents\Modelando_Dominios_Ricos\PaymentContext\PaymentContext.Domain\obj\Debug\net5.0\PaymentContext.Domain.csproj.CopyComplete

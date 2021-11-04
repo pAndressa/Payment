@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Andressa Silva\\Documents\\Modelando_Dominios_Ricos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Andressa Silva\\Documents\\Modelando_Dominios_Ricos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
       "projectName": "PaymentContext.Domain",
-      "projectPath": "c:\\Users\\Andressa Silva\\Documents\\Modelando_Dominios_Ricos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+      "projectPath": "C:\\Users\\Andressa Silva\\Documents\\Modelando_Dominios_Ricos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
       "packagesPath": "C:\\Users\\Andressa Silva\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Andressa Silva\\Documents\\Modelando_Dominios_Ricos\\PaymentContext\\PaymentContext.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Andressa Silva\\Documents\\Modelando_Dominios_Ricos\\PaymentContext\\PaymentContext.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,8 +82,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\Andressa Silva\\Documents\\Modelando_Dominios_Ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
-              "projectPath": "c:\\Users\\Andressa Silva\\Documents\\Modelando_Dominios_Ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
+            "C:\\Users\\Andressa Silva\\Documents\\Modelando_Dominios_Ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj": {
+              "projectPath": "C:\\Users\\Andressa Silva\\Documents\\Modelando_Dominios_Ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj"
             }
           }
         }
