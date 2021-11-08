@@ -41,6 +41,10 @@ namespace PaymentContext.Domain.Handlers
             if(_repository.EmailExists(command.Email))
                 AddNotification("Email","Este e-mail já está em uso");
 
+            //checar as notificações
+            if(Invalid)
+                return new CommandResult(false, "Não foi possível realizar sua assinatura");
+
             //Gerar value onjects
             var name = new Name(command.FirstName, command.LastName);
             var document = new Document(command.Document, Enums.EDocumentType.CPF);
