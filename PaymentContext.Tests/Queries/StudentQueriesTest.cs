@@ -27,7 +27,7 @@ namespace PaymentContext.Tests.Queries
         [TestMethod]
         public void ShouldReturnNullWhenDocummentNotExists()
         {
-            var exp = StudentQueries.GetStudentInfo("1235678389");
+            var exp = StudentQueries.GetStudentInfo("1235670389");
             var student = _students.AsQueryable().Where(exp).FirstOrDefault();
 
             Assert.AreEqual(null, student);
@@ -36,7 +36,7 @@ namespace PaymentContext.Tests.Queries
         [TestMethod]
         public void ShouldReturnNullWhenDocummentExists()
         {
-            var exp = StudentQueries.GetStudentInfo("12345678911");
+            var exp = StudentQueries.GetStudentInfo("12345678912");
             var student = _students.AsQueryable().Where(exp).FirstOrDefault();
 
             Assert.AreEqual(null, student);
